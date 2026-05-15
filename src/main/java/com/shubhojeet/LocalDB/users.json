@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "userId": 21,
+      "name": "Shubh",
+      "password": "anything@123"
+    }
+  ],
+
+  "trains": [
+    {
+      "trainId": 1,
+      "trainName": "Express 101",
+      "totalSeats": 100,
+      "availableSeats": 100,
+      "source": "Bangalore",
+      "destination": "Delhi"
+    }
+  ],
+
+  "bookings": [
+    {
+      "bookingId": 1,
+      "userId": 123,
+      "trainId": 1,
+      "dateOfTravel": "2023-12-01"
+    }
+  ]
+}
